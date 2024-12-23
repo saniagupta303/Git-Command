@@ -1,2 +1,4 @@
 # Git-Command
-this is git command
+This github is used to practice git command
+<br>
+author -Sania Gupta
